@@ -42,6 +42,7 @@ body, html {
   .button {
     background-color: #fff;
     color:rgb(18, 18, 18);
+    margin-top: 40px;
     width: 150px;
     height: 20px;
     padding: 10px;
